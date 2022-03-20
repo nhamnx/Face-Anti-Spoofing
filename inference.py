@@ -16,7 +16,7 @@ from facenet_pytorch import MTCNN
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model = DeePixBiS()
-model.load_state_dict(torch.load('./DeePixBiS_compose_oldaug.pth'))
+model.load_state_dict(torch.load('./DeePixBiS_compose.pth'))
 model.eval()
 model.to(device)
 
