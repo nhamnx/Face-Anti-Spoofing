@@ -3,6 +3,7 @@ Face Anti-Spoofing Using Deep-Pixel-wise-Binary-Supervision
 
 - Implementation of paper: https://arxiv.org/pdf/1907.04047v1.pdf
 - This project is based on: https://github.com/voqtuyen/deep-pix-bis-pad.pytorch
+- Demo link: https://youtu.be/cdO5LNgPrko
 
 ## Dependencies:
 Run `pip install -r requirements.txt`
