@@ -10,5 +10,5 @@ Run `pip install -r requirements.txt`
 ## Dataset:
 We are using: http://parnec.nuaa.edu.cn/_upload/tpl/02/db/731/template731/pages/xtan/NUAAImposterDB_download.html
 
-## Test:
+## Inference:
 Run `python gui.py`
